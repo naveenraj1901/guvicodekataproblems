@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-	long long int N,total_digits=0;
+	long long int N;
+	int total_digits=0;
 	cin>>N;
 	while(N>9)
 	{
