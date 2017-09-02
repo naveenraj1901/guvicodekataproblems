@@ -1,5 +1,7 @@
-#include <iostream>
-using namespace std;
+//input-NUMBER
+//output-Zero,Negative,Positive according to the NUMBER
+//use integer values for input
+#include <iostream.h>
 
 int main() {
 	int NUMBER;
