@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-	int val1,val2,val3;
+	long long int val1,val2,val3;
 	cin>>val1>>val2>>val3;
 	if((val1>val2)&&(val1>val3))
 	    cout<<val1<<" is larger";
