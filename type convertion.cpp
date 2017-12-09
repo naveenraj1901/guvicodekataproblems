@@ -29,6 +29,7 @@ int main() {
             result*=10;
 	    result*=10;
 	}
+	 result/=10;
 	cout<<result;
 	return 0;
 }
